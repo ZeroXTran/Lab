@@ -1,3 +1,10 @@
+/*
+ Dan Tran
+ ITSE-1302-008
+ 3/7/2022
+ PP 4.9
+ Write a class that print the input of two pair of die.
+*/
 public class RollingDice2 {
 	public static void main(String[] args) {
 		PairOfDice pair1 = new PairOfDice();
