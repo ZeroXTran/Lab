@@ -1,4 +1,10 @@
-
+/*
+ Dan Tran
+ ITSE-1302-008
+ 3/7/2022
+ PP 4.4
+ Write a class called Sphere that contains instance data that represents the sphere’s diameter. 
+*/
 public class MultiSphere {
 
 	public static void main(String[] args) {
