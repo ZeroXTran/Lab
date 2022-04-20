@@ -4,7 +4,7 @@
  ITSE-1032-008
  4/18/2022
  PP 5.2
- Write a program that reads an integer value from the user representing a year.
+ Modify the solution to the previous project so that the user can evaluate multiple years.
 */
 import java.util.Scanner;
 
