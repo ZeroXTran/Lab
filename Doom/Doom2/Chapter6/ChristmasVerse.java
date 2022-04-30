@@ -1,4 +1,10 @@
-
+/*
+Dan Tran
+ITSE-1032-008
+4/30/2022
+PP 6.10
+ Write a program that prints the verses of the song “The Twelve Days of Christmas,” in which each verse adds one line.
+*/
 public class ChristmasVerse {
 
 	static void method(int n) {
