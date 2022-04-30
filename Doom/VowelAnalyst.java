@@ -1,5 +1,11 @@
 package myproject;
-
+/*
+Dan Tran
+ITSE-1032-008
+4/30/2022
+PP 6.9
+Write a program that reads a string from the user, then determines and prints how many of each lowercase vowel (a, e, i, o, and u) appear in the entire string.
+*/
 import java.util.Scanner;
 
 public class VowelAnalyst {
